@@ -1,0 +1,104 @@
+
+
+h1 {
+  text-align: center;
+  border-bottom: 1px solid gray;
+  border-top: 1px solid gray;
+  padding-bottom: 15px;
+
+}
+
+/* top of the page*/
+.top table {
+  border-collapse: collapse;
+}
+.top {
+  margin-bottom: 50px;
+}
+.top th{
+  background-color: #d9f9ff;
+  border: 1px solid #0019ff;
+  padding-right: 150px;
+  border-spacing: 0;
+
+}
+
+thead .left {
+  padding: 10px 125px 10px 100px;
+}
+thead .middle {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+thead .right {
+  padding-left: 150px;
+}
+
+/* next table */
+.table {
+  margin-left: 175px;
+}
+div .table {
+  border-spacing: 0;
+  margin: 5px;
+  border: 1px solid #2d2d2d;
+}
+.web-table {
+  background-color: #cccccc;
+  text-align: center;
+  border: 1px solid #2d2d2d;
+}
+.table th {
+  border: 1px solid #2d2d2d;
+}
+td {
+  padding: 3px 100px 3px 100px;
+  border: 1px solid #2d2d2d;
+}
+.vcs {
+  padding: 3px 200px 3px 200px;
+}
+
+/* the lists */
+ .list1 {
+  float: left;
+  margin-left: 160px;
+}
+.list1 h3, .list2 h3 {
+  padding-left: 200px;
+}
+
+ .list2 {
+  float: right;
+  margin-right: 400px;
+}
+
+ .bottom {
+  position: relative;
+  border-top: 1px solid gray;
+  padding-top: 50px;
+  margin-top: 200px;
+}
+
+.image1 img {
+  position: absolute;
+  left: 1000px;
+  top: 50px;
+  border: 2px solid blue;
+  height: 200px;
+  width: 200px;
+}
+.square img{
+  border: 2px solid black;
+  height: 200px;
+  width: 200px;
+  margin-left: 200px;
+  }
+.circle img{
+  float: left;
+  border: 2px solid black;
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  margin-left: 200px;
+  }
