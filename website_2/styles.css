@@ -51,7 +51,7 @@ a {
   text-align: center;
   padding-right: 5%;
 }
-td {
+.desc {
   border-right: 3px solid black;
 }
 .hours ul {
@@ -60,4 +60,9 @@ td {
 }
 .bottom ul {
   list-style: none;
+}
+
+.bottom th {
+  font-size: 200%;
+  text-decoration: underline;
 }
