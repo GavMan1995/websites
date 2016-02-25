@@ -1,0 +1,63 @@
+body {
+  background-color: gray;
+}
+
+h2 {
+  text-align: center;
+  padding-bottom: 5px;
+  border-bottom: 1px solid white;
+}
+
+
+.menu ul {
+  margin-top: -10px;
+  position: absolute;
+  border: 2px dashed black;
+  margin-right: 80%;
+  padding-bottom: 5%;
+  padding-right: 5%;
+}
+
+h5 {
+  margin-left: -35px;
+  padding-left: -35px;
+  text-decoration: underline;
+}
+.menu li {
+  margin-left: -15px;
+  padding-left: -15px;
+}
+
+a {
+  color: purple;
+}
+ .menu img {
+   margin-top: -10px;
+   position: relative;
+   left: 35%;
+   width: 40%;
+ }
+
+ .menu {
+   border-bottom: 1px solid white;
+   margin-bottom: 4%;
+   padding-bottom: 3%;
+ }
+
+
+ /*===============================================*/
+.about, td {
+  width: 50%;
+  text-align: center;
+  padding-right: 5%;
+}
+td {
+  border-right: 3px solid black;
+}
+.hours ul {
+  width: 40%;
+  text-align: center;
+}
+.bottom ul {
+  list-style: none;
+}
